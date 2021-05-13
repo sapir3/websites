@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\Code\\WEBSITE\\WEBSITE.csproj",
+  "FilePath": "d:\\GitHub\\websites\\WEBSITE.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14402,73 +14402,73 @@
   "RootNamespace": "WEBSITE",
   "Documents": [
     {
-      "FilePath": "d:\\Code\\WEBSITE\\Pages\\Shared\\_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Code\\WEBSITE\\Pages\\BuyingKey3.cshtml",
-      "TargetPath": "Pages\\BuyingKey3.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Code\\WEBSITE\\Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Code\\WEBSITE\\Pages\\BuyingKey1.cshtml",
-      "TargetPath": "Pages\\BuyingKey1.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Code\\WEBSITE\\Pages\\BuyingKey2.cshtml",
-      "TargetPath": "Pages\\BuyingKey2.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Code\\WEBSITE\\Pages\\BuyingKey4.cshtml",
+      "FilePath": "d:\\GitHub\\websites\\Pages\\BuyingKey4.cshtml",
       "TargetPath": "Pages\\BuyingKey4.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Code\\WEBSITE\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Code\\WEBSITE\\Pages\\Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Code\\WEBSITE\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Code\\WEBSITE\\Pages\\ObjectBought.cshtml",
-      "TargetPath": "Pages\\ObjectBought.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Code\\WEBSITE\\Pages\\AboutPage.cshtml",
-      "TargetPath": "Pages\\AboutPage.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Code\\WEBSITE\\Pages\\_ViewStart.cshtml",
+      "FilePath": "d:\\GitHub\\websites\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Code\\WEBSITE\\Pages\\Marketplace.cshtml",
+      "FilePath": "d:\\GitHub\\websites\\Pages\\ObjectBought.cshtml",
+      "TargetPath": "Pages\\ObjectBought.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\GitHub\\websites\\Pages\\BuyingKey1.cshtml",
+      "TargetPath": "Pages\\BuyingKey1.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\GitHub\\websites\\Pages\\Marketplace.cshtml",
       "TargetPath": "Pages\\Marketplace.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Code\\WEBSITE\\Pages\\_ViewImports.cshtml",
+      "FilePath": "d:\\GitHub\\websites\\Pages\\AboutPage.cshtml",
+      "TargetPath": "Pages\\AboutPage.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\GitHub\\websites\\Pages\\BuyingKey3.cshtml",
+      "TargetPath": "Pages\\BuyingKey3.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\GitHub\\websites\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\GitHub\\websites\\Pages\\BuyingKey2.cshtml",
+      "TargetPath": "Pages\\BuyingKey2.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\GitHub\\websites\\Pages\\Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\GitHub\\websites\\Pages\\Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\GitHub\\websites\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\GitHub\\websites\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\GitHub\\websites\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     }
   ],
